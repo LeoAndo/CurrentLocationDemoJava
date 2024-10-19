@@ -42,6 +42,6 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
 
     // TODO STEP-1 位置情報取得に必要なライブラリ - START
-    // implementation("com.google.android.gms:play-services-location:21.3.0")
+    implementation("com.google.android.gms:play-services-location:21.3.0")
     // END
 }
